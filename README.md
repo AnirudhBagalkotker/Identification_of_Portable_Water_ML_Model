@@ -1,2 +1,2 @@
-# Identification_of_Portable_Water
- ML Project: Identification of Portable Water using 4 Different Models
+# Identification_of_Potable_Water
+ ML Project: Identification of Potable Water using 4 Different Models
